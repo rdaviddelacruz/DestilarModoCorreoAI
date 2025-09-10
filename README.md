@@ -13,3 +13,11 @@ graph TD
     F -->|Entrenal Modelo| G[Afinado GPT-4o]
     G -->|Generar| H[Personalizar Correos]
 ```
+## Revisión 🎯
+- Personalizar la generación de correo es un estilo consistente.
+- Mantener la marca de tono y toque personal.
+- Manejar varios tipos de correos.
+- facil de usar para una generación basada en prompts.
+- Escalable para un alto volumen de comunicación via mail.
+
+  ## Así funciona
