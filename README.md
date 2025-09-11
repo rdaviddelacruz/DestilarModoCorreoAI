@@ -80,4 +80,31 @@ El proyecto usa:
 - Python para el procesamiento de datos
 - formato JSONL para entrenamiento de datos
 - Sistema de prompts consistentes para el estilo
-- 
+- - Temperature settings for output variation
+  - 
+## 📈 Results and Benefits
+
+- Reduced email writing time by 80%
+- Maintained consistent brand voice
+- Increased engagement rates
+- Scalable solution for growing subscriber base
+
+## 🚀 Getting Started
+
+1. Clone this repository
+2. Install requirements:
+```bash
+pip install -r requirements.txt
+```
+3. Follow the Jupyter notebook for step-by-step implementation
+4. Use the fine-tuned model for your own email generation
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](issues). 
+Codigo tomado de 
+https://github.com/its-amann/GPT-4o-Fine-Tuning-for-Customized-Email-Generation/blob/master/README.md
+
